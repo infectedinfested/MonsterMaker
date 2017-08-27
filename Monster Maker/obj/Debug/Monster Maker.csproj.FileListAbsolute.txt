@@ -1,0 +1,30 @@
+C:\Users\kevin\AppData\Local\Temporary Projects\Monster Maker\bin\Debug\Monster Maker.exe.config
+C:\Users\kevin\AppData\Local\Temporary Projects\Monster Maker\bin\Debug\Monster Maker.exe
+C:\Users\kevin\AppData\Local\Temporary Projects\Monster Maker\bin\Debug\Monster Maker.pdb
+C:\Users\kevin\AppData\Local\Temporary Projects\Monster Maker\obj\Debug\Monster Maker.csprojResolveAssemblyReference.cache
+C:\Users\kevin\AppData\Local\Temporary Projects\Monster Maker\obj\Debug\MainWindow.g.cs
+C:\Users\kevin\AppData\Local\Temporary Projects\Monster Maker\obj\Debug\App.g.cs
+C:\Users\kevin\AppData\Local\Temporary Projects\Monster Maker\obj\Debug\Monster Maker_MarkupCompile.cache
+C:\Users\kevin\AppData\Local\Temporary Projects\Monster Maker\obj\Debug\Monster Maker_MarkupCompile.lref
+C:\Users\kevin\AppData\Local\Temporary Projects\Monster Maker\obj\Debug\MainWindow.baml
+C:\Users\kevin\AppData\Local\Temporary Projects\Monster Maker\obj\Debug\Monster Maker.g.resources
+C:\Users\kevin\AppData\Local\Temporary Projects\Monster Maker\obj\Debug\Monster_Maker.Properties.Resources.resources
+C:\Users\kevin\AppData\Local\Temporary Projects\Monster Maker\obj\Debug\Monster Maker.csproj.GenerateResource.Cache
+C:\Users\kevin\AppData\Local\Temporary Projects\Monster Maker\obj\Debug\Monster Maker.exe
+C:\Users\kevin\AppData\Local\Temporary Projects\Monster Maker\obj\Debug\Monster Maker.pdb
+D:\Drive\VisualStudioWorkspace\Monster Maker\bin\Debug\Monster Maker.exe.config
+D:\Drive\VisualStudioWorkspace\Monster Maker\obj\Debug\Monster Maker.exe
+D:\Drive\VisualStudioWorkspace\Monster Maker\obj\Debug\Monster Maker.pdb
+D:\Drive\VisualStudioWorkspace\Monster Maker\bin\Debug\Monster Maker.exe
+D:\Drive\VisualStudioWorkspace\Monster Maker\bin\Debug\Monster Maker.pdb
+D:\Drive\VisualStudioWorkspace\Monster Maker\obj\Debug\Monster Maker.csprojResolveAssemblyReference.cache
+D:\Drive\VisualStudioWorkspace\Monster Maker\obj\Debug\MainWindow.g.cs
+D:\Drive\VisualStudioWorkspace\Monster Maker\obj\Debug\App.g.cs
+D:\Drive\VisualStudioWorkspace\Monster Maker\obj\Debug\Monster Maker_MarkupCompile.cache
+D:\Drive\VisualStudioWorkspace\Monster Maker\obj\Debug\Monster Maker_MarkupCompile.lref
+D:\Drive\VisualStudioWorkspace\Monster Maker\obj\Debug\MainWindow.baml
+D:\Drive\VisualStudioWorkspace\Monster Maker\obj\Debug\Monster Maker.g.resources
+D:\Drive\VisualStudioWorkspace\Monster Maker\obj\Debug\Monster_Maker.Properties.Resources.resources
+D:\Drive\VisualStudioWorkspace\Monster Maker\obj\Debug\Monster Maker.csproj.GenerateResource.Cache
+D:\Drive\VisualStudioWorkspace\Monster Maker\bin\Debug\Newtonsoft.Json.dll
+D:\Drive\VisualStudioWorkspace\Monster Maker\bin\Debug\Newtonsoft.Json.xml
